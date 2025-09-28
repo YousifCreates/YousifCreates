@@ -49,9 +49,9 @@ Welcome to my GitHub profile! I'm a passionate Machine Learning practitioner, bu
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/yousifcreates]
-- **WhatsApp:** [https://wa.me/923398000542]
-- **Twitter (X):** [https://x.com/yousifcreate]
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/yousifcreates)
+- **WhatsApp:** [Chat With Me on WhatsApp](https://wa.me/923398000542)
+- **Twitter (X):** [Twitter - X](https://x.com/yousifcreate)
 
 ---
 
