@@ -1,155 +1,341 @@
-# 👋 Hi, I'm Muhammad Yousif Memon
+<!-- ========================================================= -->
+<!--                  YOUSIFCREATES PROFILE                     -->
+<!-- ========================================================= -->
 
-### AI Engineer | Generative AI Developer | ML & Deep Learning Enthusiast | AI Automation & Robotics Instructor
+<div align="center">
 
-I am a BS Artificial Intelligence student and an aspiring AI Engineer focused on building practical, real-world AI solutions. My work revolves around Machine Learning, Deep Learning, Generative AI, RAG systems, AI agents, automation, and intelligent application development.
+<pre>
 
-I also work as an **AI Automation & Robotics Instructor at BBSHRRDB**, where I teach Python, AI fundamentals, automation concepts, robotics foundations, and modern AI technologies.
+██╗   ██╗ ██████╗ ██╗   ██╗███████╗██╗███████╗ ██████╗██████╗ ███████╗ █████╗ ████████╗███████╗███████╗
+╚██╗ ██╔╝██╔═══██╗██║   ██║██╔════╝██║██╔════╝██╔════╝██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██╔════╝██╔════╝
+ ╚████╔╝ ██║   ██║██║   ██║███████╗██║█████╗  ██║     ██████╔╝█████╗  ███████║   ██║   █████╗  ███████╗
+  ╚██╔╝  ██║   ██║██║   ██║╚════██║██║██╔══╝  ██║     ██╔══██╗██╔══╝  ██╔══██║   ██║   ██╔══╝  ╚════██║
+   ██║   ╚██████╔╝╚██████╔╝███████║██║██║     ╚██████╗██║  ██║███████╗██║  ██║   ██║   ███████╗███████║
+   ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚═╝╚═╝      ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝
 
-Through my brand **YousifCreates**, I build AI projects, learning resources, automation tools, and practical technology solutions that help students, professionals, and businesses use AI more effectively.
+</pre>
 
----
+<h3>🚀 AI Engineer • Generative AI Developer • Machine Learning Engineer</h3>
 
-## 🚀 About Me
-
-* 🎓 BS Artificial Intelligence student
-* 🤖 AI Automation & Robotics Instructor at BBSHRRDB
-* 🧠 Focused on Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, RAG systems, and Agentic AI
-* 🛠️ Building practical AI products using Python, LangChain, LangGraph, Flask, Streamlit, FastAPI, and modern AI workflows
-* 📚 Passionate about teaching, research-based learning, and applied AI development
-* 🌱 Continuously learning advanced AI architecture, Transformers, LLM applications, and production-ready AI systems
-
----
-
-## 🧠 Core Areas of Interest
-
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Generative AI
-* Agentic AI
-* RAG Systems
-* Natural Language Processing
-* Computer Vision
-* AI Automation
-* Robotics Foundations
-* AI Product Development
-
----
-
-## 🛠️ Technical Skills
-
-**Programming & Development:**
-Python, Git, GitHub, Linux, VS Code
-
-**Machine Learning & Data Science:**
-Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Feature Engineering, Model Evaluation
-
-**Deep Learning:**
-TensorFlow, PyTorch, Neural Networks, CNNs, RNNs, LSTMs, GRUs, Transformers
-
-**Generative AI & LLMs:**
-LangChain, LangGraph, RAG Pipelines, AI Agents, Prompt Engineering, Vector Databases
-
-**Web & Deployment:**
-Flask, FastAPI, Streamlit, Hugging Face Spaces, Docker, API Integration
-
----
-
-## 💼 Featured Projects
-
-### 📚 Study Sathi
-
-Study Sathi is a specialized AI assistant designed to help students in their studies. It focuses on educational support, note-based question answering, learning assistance, and study-friendly AI workflows.
-
-### ⚖️ PakTax AI
-
-PakTax AI is an AI-powered assistant concept focused on helping users understand taxation-related queries in a simpler, clearer, and more accessible way.
-
-### 📄 AskPDF AI
-
-AskPDF AI is a document intelligence system that allows users to upload PDFs and ask questions from the content using RAG-based pipelines.
-
-### 📝 TextSum AI
-
-TextSum AI is a text summarization assistant designed to convert long-form content into concise, readable, and useful summaries.
-
-### 🛡️ Threat Vision
-
-Threat Vision is a computer vision-based AI project focused on intelligent visual understanding and detection.
-
-### 🧬 MedMNIST Tissue Classification
-
-A deep learning project focused on medical image classification using MedMNIST datasets.
-
----
-
-## 🎯 What I’m Building Toward
-
-My goal is to become a practical AI Engineer and future AI Architect who can design, build, and deploy intelligent systems from concept to production.
-
-I am especially interested in building:
-
-* AI-powered web applications
-* RAG-based document assistants
-* Custom AI agents
-* LangGraph workflows
-* ML and DL models
-* Educational AI tools
-* AI automation systems
-* Production-ready AI products
-
-I believe AI should not remain limited to theory. It should be used to solve real problems, support learning, improve productivity, and create meaningful impact.
-
----
-
-## 📊 GitHub Stats
-
-![YousifCreates GitHub Stats](https://github-readme-stats.vercel.app/api?username=YousifCreates\&show_icons=true\&theme=dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YousifCreates\&layout=compact\&theme=dark\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YousifCreates\&theme=dark\&hide_border=true)
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/yousifcreates" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="https://github.com/YousifCreates" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <a href="https://huggingface.co/YousifCreates" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging%20Face-111111?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
-  </a>
-
-  <a href="https://www.credly.com/users/yousifcreates" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-111111?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
-  </a>
-
-  <a href="https://orcid.org/0009-0003-0708-6695" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-111111?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
-  </a>
-
-  <a href="mailto:yousifcreates@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-  <a href="https://wa.me/923365295876" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
+<p>
+Building practical AI products, intelligent automation, RAG systems, AI Agents, and deep learning solutions.
 </p>
 
+</div>
 
 ---
 
-## ✨ Brand
+# ```bash
+$ whoami
+```
 
-**YousifCreates** represents my journey of creating AI systems, learning resources, automation tools, and practical technology solutions.
+```text
+Name        : Muhammad Yousif Memon
+Brand       : YousifCreates
+Role        : AI Engineer
+Focus       : Generative AI • Machine Learning • AI Agents
+Education   : BS Artificial Intelligence (4th Semester)
+Location    : Pakistan 🇵🇰
 
-> Building practical AI products, one project at a time.
+Mission:
+Build practical AI systems that solve real-world problems.
+
+Vision:
+Transform AI research into production-ready applications that
+improve productivity, learning, and business operations.
+```
+
+---
+
+# ```bash
+$ cat about_me.txt
+```
+
+```text
+• AI Engineering Student
+
+• IBM Professional Certified
+
+• Generative AI Developer
+
+• Machine Learning Engineer
+
+• Deep Learning Enthusiast
+
+• Robotics & AI Instructor
+
+• Passionate about practical AI
+
+• Loves building production-ready systems
+
+• Strong believer in Learning by Building
+
+• Linux User
+
+• Open Source Learner
+
+• Constantly exploring modern AI architectures
+
+• Enjoys turning ideas into working software
+
+• Building under the YousifCreates brand
+```
+
+---
+
+# ```bash
+$ ls certifications/
+```
+
+```text
+📜 IBM Machine Learning Engineering Professional Certificate
+
+📜 IBM Artificial Intelligence Engineering Professional Certificate
+
+📜 IBM Generative AI Engineering (In Progress)
+```
+
+---
+
+# ```bash
+$ tree interests/
+```
+
+```text
+interests
+│
+├── Artificial Intelligence
+├── Machine Learning
+├── Deep Learning
+├── Generative AI
+├── Large Language Models
+├── AI Agents
+├── RAG Pipelines
+├── LangChain
+├── LangGraph
+├── Natural Language Processing
+├── Computer Vision
+├── MLOps
+├── AI Automation
+└── Robotics
+```
+
+---
+
+# ```bash
+$ cat skills.json
+```
+
+```json
+{
+  "Languages": [
+    "Python",
+    "SQL",
+    "Git",
+    "Bash"
+  ],
+
+  "Machine Learning": [
+    "Scikit-Learn",
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Seaborn"
+  ],
+
+  "Deep Learning": [
+    "TensorFlow",
+    "PyTorch",
+    "CNNs",
+    "RNNs",
+    "LSTMs",
+    "GRUs",
+    "Transformers"
+  ],
+
+  "Generative AI": [
+    "LangChain",
+    "LangGraph",
+    "RAG",
+    "AI Agents",
+    "Prompt Engineering",
+    "FAISS",
+    "ChromaDB",
+    "Sentence Transformers"
+  ],
+
+  "Deployment": [
+    "FastAPI",
+    "Flask",
+    "Streamlit",
+    "Docker",
+    "Hugging Face Spaces"
+  ],
+
+  "Development": [
+    "Linux",
+    "VS Code",
+    "GitHub",
+    "Jupyter Notebook"
+  ]
+}
+```
+
+---
+
+# ```bash
+$ ls featured_projects/
+```
+
+```text
+📂 PakTax-AI
+    └── AI-powered taxation assistant for Pakistani users.
+
+📂 Study-Sathi
+    └── AI educational assistant for students.
+
+📂 AskPDF-AI
+    └── Chat with PDFs using Retrieval-Augmented Generation.
+
+📂 ThreatVision
+    └── Computer Vision-based intelligent threat detection.
+
+📂 TextSum-AI
+    └── Intelligent long-document summarization assistant.
+
+📂 MedMNIST-Tissue-Classification
+    └── Medical image classification using deep learning.
+```
+
+---
+
+# ```bash
+$ cat current_focus.log
+```
+
+```text
+✔ Production-ready AI Applications
+
+✔ AI Agents
+
+✔ LangGraph Workflows
+
+✔ Multi-Agent Systems
+
+✔ Retrieval-Augmented Generation
+
+✔ FastAPI Backend Development
+
+✔ LLM Engineering
+
+✔ Open Source Contributions
+```
+
+---
+
+# ```bash
+$ tail learning.log
+```
+
+```text
+[██████████████░░] Advanced Generative AI
+
+[█████████████░░░] LangGraph
+
+[████████████░░░░] Multi-Agent Systems
+
+[███████████░░░░░] MLOps
+
+[██████████████░░] Production AI Deployment
+```
+
+---
+
+# ```bash
+$ status
+```
+
+```text
+🟢 Available For
+
+✔ AI Projects
+
+✔ Research Collaborations
+
+✔ Freelance Opportunities
+
+✔ Open Source Contributions
+
+✔ AI Workshops
+
+✔ Technical Mentoring
+```
+
+---
+
+# ```bash
+$ github --stats
+```
+
+<!-- GitHub Readme Stats -->
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YousifCreates&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YousifCreates&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousifCreates&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# ```bash
+$ connect
+```
+
+```text
+LinkedIn      → https://linkedin.com/in/yousifcreates
+
+GitHub        → https://github.com/YousifCreates
+
+Hugging Face  → https://huggingface.co/yousifcreates
+
+Credly        → https://www.credly.com/users/yousifcreates
+
+ORCID         → https://orcid.org/
+
+Email         → yousifcreates@gmail.com
+```
+
+---
+
+# ```bash
+$ echo $PHILOSOPHY
+```
+
+```text
+Artificial Intelligence should not remain theory.
+
+It should solve real problems,
+improve learning,
+increase productivity,
+and create meaningful impact.
+```
+
+---
+
+<div align="center">
+
+### Thanks for visiting 👋
+
+**Building practical AI products — one project at a time.**
+
+⭐ Feel free to explore my repositories and connect!
+
+</div>
