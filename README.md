@@ -29,7 +29,7 @@
 Name:        Muhammad Yousif Memon
 Brand:       YousifCreates
 Location:    Pakistan
-Education:   BS Artificial Intelligence — 4th Semester
+Education:   BS Artificial Intelligence
 ```
 
 ---
