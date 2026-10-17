@@ -1,4 +1,8 @@
+<!-- Theme: "Nebula" — violet #A78BFA · cyan #22D3EE · pink #F472B6 · text #E2E8F0 · surface #1E1B4B · font Fira Code -->
+
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:1E1B4B,50:6D28D9,100:22D3EE&section=header&text=Muhammad%20Yousif%20Memon&fontColor=E2E8F0&fontSize=42&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Generative%20%26%20Agentic%20AI%20Developer&descSize=16&descAlignY=60&animation=fadeIn" />
 
 ```
  ██╗   ██╗ ██████╗ ██╗   ██╗███████╗██╗███████╗ ██████╗██████╗ ███████╗ █████╗ ████████╗███████╗███████╗
@@ -9,15 +13,12 @@
     ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚═╝╚═╝      ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=AI+Engineer;Generative+AI+Developer;Machine+Learning+Engineer;Building+Practical+AI+Systems;LangChain+%E2%80%A2+LangGraph+%E2%80%A2+AI+Agents+%E2%80%A2+RAG;Open+Source+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=820&lines=AI+Engineer+%E2%80%A2+Generative+%26+Agentic+AI+Developer;Multi-Agent+Systems+%E2%80%A2+RAG+%E2%80%A2+LangGraph;Full-Stack+AI+Products+with+FastAPI+%2B+React;AI+Automation+%26+Robotics+Instructor;3x+IBM+Professional+Certificates)](https://git.io/typing-svg)
 
-</div>
-
-<div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=YousifCreates&style=for-the-badge&color=00cc66&label=PROFILE+VIEWS&labelColor=161b22)
-[![GitHub](https://img.shields.io/badge/GitHub-YousifCreates-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=161b22)](https://github.com/YousifCreates)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yousifcreates-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=161b22)](https://linkedin.com/in/yousifcreates)
+![Visitors](https://komarev.com/ghpvc/?username=YousifCreates&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS&labelColor=1E1B4B)
+[![GitHub](https://img.shields.io/badge/GitHub-YousifCreates-6D28D9?style=for-the-badge&logo=github&logoColor=E2E8F0&labelColor=1E1B4B)](https://github.com/YousifCreates)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yousifcreates-0E7490?style=for-the-badge&logo=linkedin&logoColor=E2E8F0&labelColor=1E1B4B)](https://linkedin.com/in/yousifcreates)
+[![Upwork](https://img.shields.io/badge/Upwork-yousifcreates-BE185D?style=for-the-badge&logo=upwork&logoColor=E2E8F0&labelColor=1E1B4B)](https://www.upwork.com/freelancers/yousifcreates)
 
 </div>
 
@@ -26,10 +27,12 @@
 ## `> whoami`
 
 ```yaml
-Name:        Muhammad Yousif Memon
-Brand:       YousifCreates
-Location:    Pakistan
-Education:   BS Artificial Intelligence
+Name:       Muhammad Yousif Memon
+Brand:      YousifCreates
+Role:       AI Engineer | Generative & Agentic AI Developer
+Location:   Sindh, Pakistan
+Education:  BS Artificial Intelligence, University of Sindh, Jamshoro (2024 – 2027) | Grade A+
+Languages:  Sindhi (Native) · English · Urdu
 ```
 
 ---
@@ -46,30 +49,43 @@ visitor@yousifcreates:~$ cat profile.json
   "brand": "YousifCreates",
   "role": [
     "AI Engineer",
-    "Generative AI Developer",
+    "Generative & Agentic AI Developer",
     "Machine Learning Engineer",
-    "Robotics & AI Instructor"
+    "AI Automation & Robotics Instructor @ BBSHRRDB, University of Sindh"
   ],
-  "education": "BS Artificial Intelligence (4th Semester)",
-  "location": "Pakistan",
+  "education": "BS Artificial Intelligence, University of Sindh, Jamshoro",
+  "location": "Sindh, Pakistan",
   "current_focus": [
-    "Generative AI",
-    "AI Agents",
-    "LLMs",
+    "Multi-Agent Systems",
+    "Agentic AI",
+    "RAG Pipelines",
+    "LLM Engineering",
+    "LangChain & LangGraph",
     "Deep Learning",
     "Computer Vision",
-    "Natural Language Processing",
-    "Machine Learning",
-    "LangChain",
-    "LangGraph",
-    "FastAPI",
-    "RAG",
-    "Automation"
+    "NLP (English, Urdu, Roman Urdu, Sindhi)",
+    "FastAPI + React Full-Stack AI",
+    "Research: Medical Imaging & Low-Resource OCR"
   ],
-  "status": "Open to collabs, research, and opportunities",
+  "status": "Open to internships, research, collaborations, and freelance work",
   "mission": "Build practical AI systems that solve real-world problems.",
   "vision": "Transform research into production-ready AI applications."
 }
+```
+
+---
+
+## `> experience.log`
+
+```bash
+visitor@yousifcreates:~$ cat experience.log
+```
+
+```
+[2026-06 → now ] AI Automation & Robotics Instructor · BBSHRRDB, PMU, ORIC – University of Sindh
+[2025-05 → now ] Manager · The Skill Hive
+[2022-03 → 2024-12] Freelance Web Developer (WordPress / WooCommerce) · Upwork & Fiverr
+[2023-10 → 2024-10] Campus Associate · PreMed.PK
 ```
 
 ---
@@ -81,9 +97,11 @@ visitor@yousifcreates:~$ ls certifications/
 ```
 
 ```
-📄 IBM_Machine_Learning_Engineering_Professional_Certificate.cert
-📄 IBM_Artificial_Intelligence_Engineering_Professional_Certificate.cert
-📄 IBM_Generative_AI_Engineering.cert        [IN PROGRESS]
+✅ IBM_Generative_AI_Engineering_Professional_Certificate.cert
+✅ IBM_AI_Engineering_Professional_Certificate.cert
+✅ IBM_Machine_Learning_Professional_Certificate.cert
+✅ Google_AI_Fundamentals.cert
+✅ Google_AI_Essentials.cert
 ```
 
 ---
@@ -92,51 +110,43 @@ visitor@yousifcreates:~$ ls certifications/
 
 **Languages & Tools**
 
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![SQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,ts,js,dart,php,git,github,linux,ubuntu,vscode,pycharm&theme=dark)](https://skillicons.dev)
 
-**Machine Learning**
+**Machine Learning & Deep Learning**
 
-[![Scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev)
+[![ML](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv&theme=dark)](https://skillicons.dev)
 
 ```
-pandas · numpy · matplotlib · seaborn
+pandas · numpy · matplotlib · seaborn · Keras
+CNN · RNN · LSTM · GRU · Transformers · Transfer Learning · Diffusion (LoRA)
 ```
 
-**Deep Learning**
+**Generative AI & Agents**
 
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
-[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
-
-```
-CNN · RNN · LSTM · GRU · Transformers
-```
-
-**Generative AI**
+![LangChain](https://img.shields.io/badge/LangChain-1E1B4B?style=for-the-badge&logo=langchain&logoColor=A78BFA)
+![LangGraph](https://img.shields.io/badge/LangGraph-1E1B4B?style=for-the-badge&logo=langgraph&logoColor=A78BFA)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-1E1B4B?style=for-the-badge&logo=huggingface&logoColor=22D3EE)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-1E1B4B?style=for-the-badge&logo=openai&logoColor=22D3EE)
+![Claude](https://img.shields.io/badge/Claude_API-1E1B4B?style=for-the-badge&logo=anthropic&logoColor=F472B6)
 
 ```
-LangChain · LangGraph · RAG · AI Agents
-Prompt Engineering · Sentence Transformers · FAISS · ChromaDB
+RAG · Multi-Agent Orchestration · Prompt Engineering
+Sentence Transformers · Cross-Encoder Reranking · FAISS · ChromaDB · pgvector · Qdrant
 ```
 
-**Deployment**
+**Backend, Frontend & Mobile**
 
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
-[![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-[![HuggingFace](https://skillicons.dev/icons?i=huggingface)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=fastapi,flask,django,react,nextjs,vite,tailwind,flutter,wordpress&theme=dark)](https://skillicons.dev)
 
-```
-Streamlit
-```
+![Streamlit](https://img.shields.io/badge/Streamlit-1E1B4B?style=for-the-badge&logo=streamlit&logoColor=F472B6)
 
-**Development Environment**
+**Data & DevOps**
 
-[![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=postgres,redis,sqlite,docker,kubernetes,githubactions,gcp&theme=dark)](https://skillicons.dev)
+
+**Hardware & Robotics**
+
+[![Hardware](https://skillicons.dev/icons?i=arduino&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -144,12 +154,30 @@ Streamlit
 
 | Project | Description | Stack |
 |---|---|---|
-| **[PakTax AI](https://github.com/YousifCreates)** | AI-powered taxation assistant helping users understand Pakistani tax queries using RAG and LLMs. | `FastAPI` `LangChain` `RAG` `LLMs` |
-| **[Study Sathi](https://github.com/YousifCreates)** | Educational AI assistant helping students with study support and intelligent learning. | `Python` `LangChain` `LLMs` |
-| **[AskPDF AI](https://github.com/YousifCreates)** | Upload PDFs and ask questions using Retrieval-Augmented Generation. | `LangChain` `ChromaDB` `RAG` `Streamlit` |
-| **[Threat Vision](https://github.com/YousifCreates)** | Computer Vision system for intelligent visual understanding and threat detection. | `Python` `OpenCV` `Deep Learning` |
-| **[TextSum AI](https://github.com/YousifCreates)** | Long document summarization assistant. | `LangChain` `GPT` `Streamlit` |
-| **[MedMNIST Tissue Classification](https://github.com/YousifCreates)** | Medical image classification using deep learning. | `PyTorch` `CNN` `Deep Learning` |
+| **[RozNoor](https://roznoor.up.railway.app)** | Remote patient-monitoring platform for heart-failure & post-surgical patients. Rule-engine risk scoring (Green → Red), LLM symptom extraction from English/Roman Urdu voice diaries, doctor alerts. Live web + Android app. | `FastAPI` `React` `Flutter` `PostgreSQL` `Claude API` `Docker` |
+| **[CiteMind AI](https://github.com/YousifCreates/CiteMind-AI-Web)** | Multi-agent learning & research platform: planner → retrieval → teaching agents, two-stage RAG over arXiv / Semantic Scholar / OpenAlex, AI roadmaps and adaptive assessments. | `FastAPI` `React` `TypeScript` `pgvector` `Anthropic` `OpenAI` |
+| **[PakTax AI](https://github.com/YousifCreates/Paktax-AI)** | Multilingual RAG assistant for Pakistani FBR income-tax filing in English, Urdu & Roman Urdu, grounded in official FBR documents. | `Flask` `LangChain` `ChromaDB` `GPT-4o-mini` `multilingual-e5` |
+| **CV Intelligence v2.0** | AI recruitment platform: OCR/NLP resume parsing, semantic candidate–job matching, ATS workflows *(private, in development)*. | `Next.js` `FastAPI` `Qdrant` `Redis` `Kubernetes` |
+| **[ThreatVision](https://github.com/YousifCreates/Threat-Vision)** | Real-time weapon & threat detection on images, video and live webcam with detection logging. | `Python` `Roboflow` `OpenCV` `Streamlit` |
+| **[TextSum AI](https://github.com/YousifCreates/TextSum)** | Conversational long-text summarizer with memory, as CLI and web app. | `LangChain` `OpenAI` `Streamlit` |
+| **[MedMNIST Tissue Classification](https://github.com/YousifCreates/MedMNIST-Tissue-Classification)** | CNN classifying 9 colorectal histopathology tissue types (PathMNIST, ~107K images). | `PyTorch` `CNN` |
+| **[Fake News Detector](https://github.com/YousifCreates/Fake-News-Detector)** | News credibility classifier with a reproducible training pipeline. | `scikit-learn` `TF-IDF` `Logistic Regression` |
+
+---
+
+## `> research.md`
+
+```bash
+visitor@yousifcreates:~$ cat research.md
+```
+
+```
+🔬 Sindhi Handwritten Character Recognition via Transfer Learning
+   └─ dual-head architecture · paper in writing
+
+🔬 Resource-Efficient Diffusion-Based Augmentation for Skin Lesion Classification
+   └─ Stable Diffusion + LoRA · HAM10000 · minimum effective synthetic-data ratio under limited compute
+```
 
 ---
 
@@ -160,13 +188,13 @@ visitor@yousifcreates:~$ htop
 ```
 
 ```
-  PID  USER      PRI  NI  VIRT   RES   %CPU  %MEM  COMMAND
-  1001 yousif     20   0  2.4G  512M   87.5   14.2  building_ai_products
-  1002 yousif     20   0  1.8G  340M   72.3   9.8   ai_agents.py
-  1003 yousif     20   0  1.2G  256M   65.0   7.1   langgraph_pipeline
-  1004 yousif     20   0  980M  190M   58.4   5.5   llm_engineering
-  1005 yousif     20   0  512M  128M   40.1   3.2   research.md
-  1006 yousif     20   0  128M   64M   99.9   1.0   coffee.sh
+  PID USER     PRI  NI  VIRT   RES  %CPU %MEM COMMAND
+ 1001 yousif    20   0  2.4G  512M  87.5 14.2 navix_agent        # AI career & presence agent platform
+ 1002 yousif    20   0  1.8G  340M  72.3  9.8 cv_intelligence_v2 # AI recruitment platform
+ 1003 yousif    20   0  1.2G  256M  65.0  7.1 sindhi_hcr_paper   # research paper
+ 1004 yousif    20   0  980M  190M  58.4  5.5 diffusion_research # skin lesion augmentation
+ 1005 yousif    20   0  512M  128M  40.1  3.2 teaching.py        # AI & robotics cohort
+ 1006 yousif    20   0  128M   64M  99.9  1.0 coffee.sh
 ```
 
 ---
@@ -179,16 +207,17 @@ visitor@yousifcreates:~$ tree roadmap
 
 ```
 roadmap/
-├── Machine Learning ................. ✔
-├── Deep Learning ..................... ✔
-├── Computer Vision ................... ✔
-├── NLP ................................ ✔
-├── Generative AI ...................... ✔
-├── AI Agents ........................... ✔
-├── LangGraph ........................... ✔
-├── Multi-Agent Systems ............... 🚧
-├── MLOps ................................ 🚧
-└── AI Architect ......................... 🎯
+├── Machine Learning ...................... ✔
+├── Deep Learning ......................... ✔
+├── Computer Vision ....................... ✔
+├── NLP ................................... ✔
+├── Generative AI ......................... ✔
+├── AI Agents ............................. ✔
+├── LangGraph ............................. ✔
+├── Multi-Agent Systems ................... ✔
+├── Research & Publications ............... 🚧
+├── MLOps ................................. 🚧
+└── AI Architect .......................... 🎯
 ```
 
 ---
@@ -200,12 +229,11 @@ visitor@yousifcreates:~$ cat status.log
 ```
 
 ```
-[OK] Available for  : AI Projects
-[OK] Available for  : Research
-[OK] Available for  : Open Source
-[OK] Available for  : Collaborations
-[OK] Available for  : Technical Workshops
-[OK] Available for  : Freelance
+[OK] Available for : AI Engineering Internships
+[OK] Available for : AI Projects & Freelance
+[OK] Available for : Research Collaborations
+[OK] Available for : Open Source
+[OK] Available for : Technical Workshops
 ```
 
 ---
@@ -217,19 +245,19 @@ visitor@yousifcreates:~$ neofetch
 ```
 
 ```
-        .--.            visitor@yousifcreates
-       |o_o |           ---------------------
-       |:_/ |           OS: Ubuntu Linux
-      //   \ \          Shell: bash 5.2
-     (|     | )         Editor: VS Code
-    /'\_   _/`\         Language: Python
-    \___)=(___/         Architecture: AI Systems
+    .--.      visitor@yousifcreates
+   |o_o |     ---------------------
+   |:_/ |     OS: Ubuntu Linux
+  //   \ \    Shell: bash 5.2
+ (|     | )   Editor: VS Code · PyCharm
+/'\_   _/`\   Language: Python · TypeScript
+\___)=(___/   Architecture: Multi-Agent AI Systems
 
-    Currently Building:
-    ├── AI Products
-    ├── RAG Systems
-    ├── AI Agents
-    └── FastAPI APIs
+Currently Building:
+├── Agentic AI Products
+├── RAG Systems
+├── FastAPI + React Platforms
+└── Research Papers
 ```
 
 ---
@@ -241,12 +269,11 @@ visitor@yousifcreates:~$ tail learning.log
 ```
 
 ```
-[2026-07-01] Advanced Generative AI ................ in progress
-[2026-07-02] LangGraph ............................. in progress
-[2026-07-03] AI Agents ............................. in progress
-[2026-07-04] LLM Engineering ........................ in progress
-[2026-07-05] Production AI Systems .................. in progress
-[2026-07-05] MLOps .................................. in progress
+[2026-10] LLM Engineering & Evaluation ............ in progress
+[2026-10] Production AI Systems ................... in progress
+[2026-10] MLOps (Docker · CI/CD · Kubernetes) ..... in progress
+[2026-10] Diffusion Models & LoRA Fine-Tuning ..... in progress
+[2026-10] Research Writing & Publication .......... in progress
 ```
 
 ---
@@ -255,30 +282,14 @@ visitor@yousifcreates:~$ tail learning.log
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YousifCreates&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=c8fcd8&count_private=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousifCreates&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c8fcd8&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YousifCreates&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=E2E8F0&ring_color=A78BFA&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousifCreates&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&langs_count=8" />
 
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=YousifCreates&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=94A3B8&stroke=1E1B4B&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
 
-<div align="center">
+[![Yousif's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YousifCreates&bg_color=0D1117&color=A78BFA&line=22D3EE&point=F472B6&area=true&area_color=1E1B4B&title_color=A78BFA&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YousifCreates&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=c8fcd8&dates=4a7a5a&stroke=1a2a1a&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Mehar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YousifCreates&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=YousifCreates&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1)
-
-</div>
-
-<div align="center">
+![Trophies](https://github-profile-trophy.vercel.app/?username=YousifCreates&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1)
 
 <img src="https://raw.githubusercontent.com/YousifCreates/YousifCreates/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
@@ -294,12 +305,13 @@ visitor@yousifcreates:~$ contact
 
 ```python
 contact = {
-    "github"       : "github.com/YousifCreates",
-    "linkedin"     : "linkedin.com/in/yousifcreates",
-    "huggingface"  : "huggingface.co/yousifcreates",
-    "credly"       : "credly.com/users/yousifcreates",
-    "orcid"        : "orcid.org/",
-    "email"        : "yousifcreates@gmail.com",
+    "github"      : "github.com/YousifCreates",
+    "linkedin"    : "linkedin.com/in/yousifcreates",
+    "upwork"      : "upwork.com/freelancers/yousifcreates",
+    "huggingface" : "huggingface.co/yousifcreates",
+    "credly"      : "credly.com/users/yousifcreates",
+    "orcid"       : "orcid.org/0009-0003-0708-6695",
+    "email"       : "yousifcreates@gmail.com",
 }
 
 print("Let's build something cool together!")
@@ -307,11 +319,12 @@ print("Let's build something cool together!")
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-YousifCreates-161b22?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/YousifCreates)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yousifcreates-161b22?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://linkedin.com/in/yousifcreates)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-yousifcreates-161b22?style=for-the-badge&logo=huggingface&logoColor=00ff88)](https://huggingface.co/yousifcreates)
-[![Credly](https://img.shields.io/badge/Credly-yousifcreates-161b22?style=for-the-badge&logo=credly&logoColor=00ff88)](https://www.credly.com/users/yousifcreates)
-[![Email](https://img.shields.io/badge/Email-yousifcreates%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:yousifcreates@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yousifcreates-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://linkedin.com/in/yousifcreates)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-1E1B4B?style=for-the-badge&logo=upwork&logoColor=F472B6)](https://www.upwork.com/freelancers/yousifcreates)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-yousifcreates-1E1B4B?style=for-the-badge&logo=huggingface&logoColor=A78BFA)](https://huggingface.co/yousifcreates)
+[![Credly](https://img.shields.io/badge/Credly-yousifcreates-1E1B4B?style=for-the-badge&logo=credly&logoColor=22D3EE)](https://www.credly.com/users/yousifcreates)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--0708--6695-1E1B4B?style=for-the-badge&logo=orcid&logoColor=A78BFA)](https://orcid.org/0009-0003-0708-6695)
+[![Email](https://img.shields.io/badge/Email-yousifcreates%40gmail.com-1E1B4B?style=for-the-badge&logo=gmail&logoColor=F472B6)](mailto:yousifcreates@gmail.com)
 
 </div>
 
@@ -328,5 +341,7 @@ visitor@yousifcreates:~$ exit
 Thanks for visiting. Keep building.
 
 <sub><code>// turning research into production-ready AI systems · one commit at a time</code></sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:22D3EE,50:6D28D9,100:1E1B4B&section=footer" />
 
 </div>
