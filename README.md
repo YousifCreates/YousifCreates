@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:1E1B4B,50:6D28D9,100:22D3EE&section=header&text=Muhammad%20Yousif%20Memon&fontColor=E2E8F0&fontSize=42&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Generative%20%26%20Agentic%20AI%20Developer&descSize=16&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:1E1B4B,50:6D28D9,100:22D3EE&section=header&text=Muhammad%20Yousif%20Memon&fontColor=E2E8F0&fontSize=42&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Generative%20and%20Agentic%20AI%20Developer&descSize=16&descAlignY=60&animation=fadeIn" />
 
 ```
  ██╗   ██╗ ██████╗ ██╗   ██╗███████╗██╗███████╗ ██████╗██████╗ ███████╗ █████╗ ████████╗███████╗███████╗
@@ -15,7 +15,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=820&lines=AI+Engineer+%E2%80%A2+Generative+%26+Agentic+AI+Developer;Multi-Agent+Systems+%E2%80%A2+RAG+%E2%80%A2+LangGraph;Full-Stack+AI+Products+with+FastAPI+%2B+React;AI+Automation+%26+Robotics+Instructor;3x+IBM+Professional+Certificates)](https://git.io/typing-svg)
 
-![Visitors](https://komarev.com/ghpvc/?username=YousifCreates&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS&labelColor=1E1B4B)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=YousifCreates.YousifCreates&left_text=PROFILE%20VIEWS&left_color=%231E1B4B&right_color=%236D28D9" height="28" alt="Profile views" />
 [![GitHub](https://img.shields.io/badge/GitHub-YousifCreates-6D28D9?style=for-the-badge&logo=github&logoColor=E2E8F0&labelColor=1E1B4B)](https://github.com/YousifCreates)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yousifcreates-0E7490?style=for-the-badge&logo=linkedin&logoColor=E2E8F0&labelColor=1E1B4B)](https://linkedin.com/in/yousifcreates)
 [![Upwork](https://img.shields.io/badge/Upwork-yousifcreates-BE185D?style=for-the-badge&logo=upwork&logoColor=E2E8F0&labelColor=1E1B4B)](https://www.upwork.com/freelancers/yousifcreates)
@@ -287,11 +287,15 @@ visitor@yousifcreates:~$ tail learning.log
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=YousifCreates&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=94A3B8&stroke=1E1B4B&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
 
-[![Yousif's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YousifCreates&bg_color=0D1117&color=A78BFA&line=22D3EE&point=F472B6&area=true&area_color=1E1B4B&title_color=A78BFA&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="95%" src="https://ghchart.rshah.org/6D28D9/YousifCreates" alt="Yousif's GitHub contribution chart" />
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YousifCreates&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1)
+<img src="https://github-trophies.vercel.app/?username=YousifCreates&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
 
-<img src="https://raw.githubusercontent.com/YousifCreates/YousifCreates/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YousifCreates/YousifCreates/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YousifCreates/YousifCreates/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/YousifCreates/YousifCreates/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
