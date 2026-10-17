@@ -15,10 +15,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=820&lines=AI+Engineer+%E2%80%A2+Generative+%26+Agentic+AI+Developer;Multi-Agent+Systems+%E2%80%A2+RAG+%E2%80%A2+LangGraph;Full-Stack+AI+Products+with+FastAPI+%2B+React;AI+Automation+%26+Robotics+Instructor;3x+IBM+Professional+Certificates)](https://git.io/typing-svg)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=YousifCreates.YousifCreates&left_text=PROFILE%20VIEWS&left_color=%231E1B4B&right_color=%236D28D9" height="28" alt="Profile views" />
-[![GitHub](https://img.shields.io/badge/GitHub-YousifCreates-6D28D9?style=for-the-badge&logo=github&logoColor=E2E8F0&labelColor=1E1B4B)](https://github.com/YousifCreates)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yousifcreates-0E7490?style=for-the-badge&logo=linkedin&logoColor=E2E8F0&labelColor=1E1B4B)](https://linkedin.com/in/yousifcreates)
-[![Upwork](https://img.shields.io/badge/Upwork-yousifcreates-BE185D?style=for-the-badge&logo=upwork&logoColor=E2E8F0&labelColor=1E1B4B)](https://www.upwork.com/freelancers/yousifcreates)
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YousifCreates.YousifCreates&left_text=PROFILE%20VIEWS&left_color=%231E1B4B&right_color=%236D28D9" height="28" alt="Profile views" />
+  <a href="https://github.com/YousifCreates"><img src="https://img.shields.io/badge/GitHub-YousifCreates-6D28D9?style=for-the-badge&logo=github&logoColor=E2E8F0&labelColor=1E1B4B" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/yousifcreates"><img src="https://img.shields.io/badge/LinkedIn-yousifcreates-0E7490?style=for-the-badge&logo=linkedin&logoColor=E2E8F0&labelColor=1E1B4B" alt="LinkedIn" /></a>
+  <a href="https://www.upwork.com/freelancers/yousifcreates"><img src="https://img.shields.io/badge/Upwork-yousifcreates-BE185D?style=for-the-badge&logo=upwork&logoColor=E2E8F0&labelColor=1E1B4B" alt="Upwork" /></a>
+</p>
 
 </div>
 
